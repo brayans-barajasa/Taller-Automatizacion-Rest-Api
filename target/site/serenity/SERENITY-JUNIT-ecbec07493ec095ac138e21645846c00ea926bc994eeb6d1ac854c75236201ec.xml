@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Automatización de REST API - POM" skipped="0" tests="1" time="6.79" timestamp="2024-05-22 05:14:49"><testcase name="Consultar y modificar un usuario con método PUT"><failure message="expected:&lt;Jagadisha Asan&gt; but was:&lt;null&gt;" type="java.lang.AssertionError">expected:&lt;Jagadisha Asan&gt; but was:&lt;null&gt;</failure><system-err>expected:&lt;Jagadisha Asan&gt; but was:&lt;null&gt;&#13;
+com.unac.restinteractions.RestInteractions.validateDataResponse(RestInteractions.java:30)&#13;
+com.unac.apis.GoRestApi.validateResponse(GoRestApi.java:20)&#13;
+com.unac.stepsdefinitions.GetGoRestStepsdefinitions.seValidaQueElStatusCodeYQueContengaElNombre(GetGoRestStepsdefinitions.java:21)&#13;
+✽.se valida que el status code 200 y que contenga el nombre "Jagadisha Asan"(file:///C:/Users/braya/Downloads/AutomatizacionApiRest-main/src/test/resources/com/unac/get_go_rest.feature:9)&#13;
+</system-err></testcase></testsuite>

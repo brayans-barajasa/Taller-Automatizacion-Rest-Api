@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"automatizacion de rest api - pom","consultar un usuario con metodo get","SUCCESS","2024-05-22T17:04:08.014-05:00[America/Bogota]","0.0","6.64"
+"Automatización de REST API - POM","Consultar y modificar un usuario con método PUT","FAILURE","2024-05-22T17:14:49.975-05:00[America/Bogota]","0.0","6.79"
+"Automatización de REST API - POM","Consultar un usuario con método GET","SUCCESS","2024-05-22T17:22:56.062-05:00[America/Bogota]","0.0","4.41"
+"Automatización de REST API - POM","Modificar un usuario con método PUT","SUCCESS","2024-05-22T17:23:00.491-05:00[America/Bogota]","0.0","1.59"
